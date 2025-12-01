@@ -1,0 +1,27 @@
+#1 -
+Let pozwala na ponowne przypisanie wartości do zmiennej, a const nie pozwala na zmianę po jej zainicjalizowaniu.
+Const używa się kiedy wartość zmiennej nie powinna się zmieniać.  Let należy używać kiedy wiemy że wartość zmiennej będzie się zmieniać.
+
+#2 - 
+1.number		 Przykład: let wiek = 24;
+2.string			 Przykład: let imie = "Błażej";
+3.boolean 		 Przykład: let czyAktywny = true;
+4.null			 Przykład: let dane = null;
+4.undefined			 Przykład: let zmienna; document.write(zmienna);
+
+#3 -
+konkatencja to łączenie dwóch lub więcej ciągów znaków.
+sposób 1: operator +
+sposób 2: szablony literalne
+
+4# - 
+operator ++x zwiększa wartość przed użyciem, a operator x++ po użyciu.
+
+5#-
+a) 15.
+b) 6.
+c) 21
+
+6# - 
+
+        
