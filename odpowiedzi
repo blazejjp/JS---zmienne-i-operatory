@@ -23,5 +23,38 @@ b) 6.
 c) 21
 
 6# - 
+Witaj, Jan! Masz 18 lat.`
 
+7# -
+let cena = 100;
+const RABAT = 0.15;
+document.write(`cena przed rabatem: ${cena} <br>`);
+document.write(`cena po rabacie: ${cena -= cena * RABAT}`);
         
+#8 -
+let liczba = 17;
+    let liczba = 17;
+    if(liczba%2 == 0) {
+        document.write(`${liczba} jest parzyste`);
+    }
+    document.write(`${liczba} nie jest parzyste`);
+
+#9 -
+        const szerokosc = 5;
+        const dlugosc = 6;
+        let pole = dlugosc*szerokosc;
+        console.log(pole);
+
+#10 -
+        let licznik = 5;
+        licznik++;
+        console.log(licznik);
+        licznik++;
+        console.log(licznik);
+        licznik--;
+        console.log(licznik);
+
+#11 -
+        const sekundy = 135;
+        let minuty = Math.floor(sekundy/60);
+        document.write(`${minuty}min ${sekundy%60}s`);
